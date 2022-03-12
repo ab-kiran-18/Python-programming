@@ -6,7 +6,7 @@ DYNAMIC PROGRAMMING:
   
   2)  It is a approach where we solve each and every possibility cases which might lead to solution for the problem.
   
-  3)  here we have a base case buy which we calculate next cases with help of the previous cases.    
+  3)  here we have a base case by which we calculate the next cases with help of the previous cases.    
   
   4)  It is a approach where we reduce the time complexity of a problem by memorizing its result so that we can use in future without any furthur calculating it once agin.
       so, with this procedure we can solve a problem without solving any small sub-problems repetitively.
